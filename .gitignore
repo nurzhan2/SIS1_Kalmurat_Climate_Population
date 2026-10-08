@@ -1,0 +1,6 @@
+_scratch/
+_defense/
+.ipynb_checkpoints/
+__pycache__/
+*.docx
+~$*
