@@ -1,0 +1,33 @@
+﻿city,previous_names,city_since,pop_1979,pop_1989,pop_1999,pop_2008,pop_2023,status,province,macro_region,growth_pct,cagr_pct
+Almaty,"Vernyy, Alma-Ata",1867,909644,1127884,1129356,1328362,2217700,1,Almaty City,South,96.4,2.85
+Astana,"Akmola, Akmolinsk, Tselinograd, Nur-Sultan",1831,233638,277365,312965,389189,1417214,1,Astana City,North,352.8,6.5
+Shymkent,"Chimkent, Chernyayev",,321535,380091,390200,454583,1216000,1,Shymkent City,South,211.6,4.85
+Aktobe,Aktyubinsk,1880,190569,253532,253088,285507,560820,2,Aktobe,West,121.6,3.37
+Karaganda,,1934,571877,507318,436864,451800,515819,2,Karagandy,Central,18.1,0.69
+Taraz,"Talas, Zhambyl, Aulie-Ata",,263793,303961,330125,398233,427394,2,Jambyl,South,29.5,1.08
+Oskemen,Ust-Kamenogorsk,1868,274287,322221,310950,344421,400142,2,East Kazakhstan,East,28.7,1.06
+Pavlodar,,1861,272895,329681,320400,354809,367254,2,Pavlodar,North,14.6,0.57
+Semey,"Alash-kala, Semipalatinsk",1782,282574,317112,292500,312136,328782,3,East Kazakhstan,East,12.4,0.49
+Kyzylorda,"Perovsk, Ak-Mechet",1867,156128,150425,157364,182929,315550,2,Kyzylorda,South,100.5,2.94
+Atyrau,Guryev,1885,130916,149261,142497,158308,315274,2,Atyrau,West,121.2,3.36
+Aktau,Shevchenko,1963,,159245,143396,180373,270886,2,Mangystau,West,88.9,2.69
+Kostanay,Kustanay,1893,164500,223558,221429,249395,265718,2,Kostanay,North,20.0,0.76
+Oral,Uralsk,1613,167352,199522,212900,255489,254380,2,West Kazakhstan,West,19.5,0.74
+Petropavl,Petropavlovsk,1807,206559,239606,216300,208547,222076,2,North Kazakhstan,North,2.7,0.11
+Turkistan,,,66741,77692,87600,109673,220133,3,Turkistan,South,151.3,3.91
+Kokshetau,"Stanitsa Kokchetavskaya, Kokchetav",1824,103162,135424,123389,132753,191105,2,Akmola,North,54.9,1.84
+Temirtau,,1945,213026,213551,181800,179520,171890,3,Karagandy,Central,-5.5,-0.23
+Taldykorgan,,1944,87948,118623,107100,114728,168674,2,Almaty,South,57.5,1.91
+Ekibastuz,,1957,65871,135006,137200,158165,152509,3,Pavlodar,North,11.2,0.44
+Janaözen,Noviy Uzen,1968,34000,48300,51100,60796,152431,3,Mangystau,West,198.3,4.66
+Jezkazgan,Dzhezkazgan,1954,89200,107053,103400,112154,85012,3,Karagandy,Central,-17.8,-0.81
+Balqash,,1937,78145,86742,81100,86897,81364,3,Karagandy,Central,0.3,0.01
+Baikonur,Leninsk,1969,,74700,60200,59452,76019,1,Kyzylorda,South,26.3,0.98
+Kentau,,1955,62991,63784,58100,60799,74464,4,Turkistan,South,28.2,1.04
+Stepnogorsk,,1964,46700,63300,50900,47705,68460,3,Akmola,North,34.5,1.24
+Satpayev,,1973,48700,59343,62900,73874,68379,3,Karagandy,Central,8.7,0.35
+Ridder,Leninogorsk,1934,68135,68730,56269,54252,52068,3,East Kazakhstan,East,-7.5,-0.32
+Schuchinsk,,1939,,55500,47900,50128,47625,4,Akmola,North,-0.6,-0.02
+Shakhtinsk,,1961,50382,65600,54800,54748,39185,3,Karagandy,Central,-28.5,-1.39
+Saran,,1954,54878,63900,48500,49082,34636,3,Karagandy,Central,-28.6,-1.39
+Arkalyk,,1965,47963,62367,45700,56614,28907,4,Kostanay,North,-36.7,-1.89
